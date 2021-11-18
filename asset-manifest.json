@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/passive_web/static/css/main.08b79bc4.chunk.css",
-    "main.js": "/passive_web/static/js/main.59cb0c55.chunk.js",
-    "main.js.map": "/passive_web/static/js/main.59cb0c55.chunk.js.map",
-    "runtime-main.js": "/passive_web/static/js/runtime-main.0416d661.js",
-    "runtime-main.js.map": "/passive_web/static/js/runtime-main.0416d661.js.map",
+    "main.css": "/passive_web/static/css/main.3a4a097f.chunk.css",
+    "main.js": "/passive_web/static/js/main.d4da1443.chunk.js",
+    "main.js.map": "/passive_web/static/js/main.d4da1443.chunk.js.map",
+    "runtime-main.js": "/passive_web/static/js/runtime-main.584410f1.js",
+    "runtime-main.js.map": "/passive_web/static/js/runtime-main.584410f1.js.map",
     "static/css/2.383c0125.chunk.css": "/passive_web/static/css/2.383c0125.chunk.css",
-    "static/js/2.5605306a.chunk.js": "/passive_web/static/js/2.5605306a.chunk.js",
-    "static/js/2.5605306a.chunk.js.map": "/passive_web/static/js/2.5605306a.chunk.js.map",
-    "static/js/3.5eb532d1.chunk.js": "/passive_web/static/js/3.5eb532d1.chunk.js",
-    "static/js/3.5eb532d1.chunk.js.map": "/passive_web/static/js/3.5eb532d1.chunk.js.map",
-    "static/js/4.3927f249.chunk.js": "/passive_web/static/js/4.3927f249.chunk.js",
-    "static/js/4.3927f249.chunk.js.map": "/passive_web/static/js/4.3927f249.chunk.js.map",
+    "static/js/2.33c7525e.chunk.js": "/passive_web/static/js/2.33c7525e.chunk.js",
+    "static/js/2.33c7525e.chunk.js.map": "/passive_web/static/js/2.33c7525e.chunk.js.map",
+    "static/js/3.9f186abe.chunk.js": "/passive_web/static/js/3.9f186abe.chunk.js",
+    "static/js/3.9f186abe.chunk.js.map": "/passive_web/static/js/3.9f186abe.chunk.js.map",
+    "static/js/4.8728f30f.chunk.js": "/passive_web/static/js/4.8728f30f.chunk.js",
+    "static/js/4.8728f30f.chunk.js.map": "/passive_web/static/js/4.8728f30f.chunk.js.map",
     "index.html": "/passive_web/index.html",
     "static/css/2.383c0125.chunk.css.map": "/passive_web/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.08b79bc4.chunk.css.map": "/passive_web/static/css/main.08b79bc4.chunk.css.map",
-    "static/js/2.5605306a.chunk.js.LICENSE.txt": "/passive_web/static/js/2.5605306a.chunk.js.LICENSE.txt",
+    "static/css/main.3a4a097f.chunk.css.map": "/passive_web/static/css/main.3a4a097f.chunk.css.map",
+    "static/js/2.33c7525e.chunk.js.LICENSE.txt": "/passive_web/static/js/2.33c7525e.chunk.js.LICENSE.txt",
     "static/media/1032.6222f81b.png": "/passive_web/static/media/1032.6222f81b.png",
     "static/media/Logo.81f37523.svg": "/passive_web/static/media/Logo.81f37523.svg",
     "static/media/Title.5ce59695.png": "/passive_web/static/media/Title.5ce59695.png",
@@ -38,10 +38,10 @@
     "static/media/walletconnect.1edebea6.svg": "/passive_web/static/media/walletconnect.1edebea6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0416d661.js",
+    "static/js/runtime-main.584410f1.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.5605306a.chunk.js",
-    "static/css/main.08b79bc4.chunk.css",
-    "static/js/main.59cb0c55.chunk.js"
+    "static/js/2.33c7525e.chunk.js",
+    "static/css/main.3a4a097f.chunk.css",
+    "static/js/main.d4da1443.chunk.js"
   ]
 }
