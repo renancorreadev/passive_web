@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/passive_web/static/css/main.0da45c7d.chunk.css",
-    "main.js": "/passive_web/static/js/main.ab214776.chunk.js",
-    "main.js.map": "/passive_web/static/js/main.ab214776.chunk.js.map",
-    "runtime-main.js": "/passive_web/static/js/runtime-main.7fa77b92.js",
-    "runtime-main.js.map": "/passive_web/static/js/runtime-main.7fa77b92.js.map",
-    "static/js/2.c6f305d0.chunk.js": "/passive_web/static/js/2.c6f305d0.chunk.js",
-    "static/js/2.c6f305d0.chunk.js.map": "/passive_web/static/js/2.c6f305d0.chunk.js.map",
-    "static/js/3.e4c6f188.chunk.js": "/passive_web/static/js/3.e4c6f188.chunk.js",
-    "static/js/3.e4c6f188.chunk.js.map": "/passive_web/static/js/3.e4c6f188.chunk.js.map",
+    "main.js": "/passive_web/static/js/main.34658fb1.chunk.js",
+    "main.js.map": "/passive_web/static/js/main.34658fb1.chunk.js.map",
+    "runtime-main.js": "/passive_web/static/js/runtime-main.ee342a02.js",
+    "runtime-main.js.map": "/passive_web/static/js/runtime-main.ee342a02.js.map",
+    "static/js/2.8c9c6493.chunk.js": "/passive_web/static/js/2.8c9c6493.chunk.js",
+    "static/js/2.8c9c6493.chunk.js.map": "/passive_web/static/js/2.8c9c6493.chunk.js.map",
+    "static/js/3.9fa152f5.chunk.js": "/passive_web/static/js/3.9fa152f5.chunk.js",
+    "static/js/3.9fa152f5.chunk.js.map": "/passive_web/static/js/3.9fa152f5.chunk.js.map",
     "static/js/4.51ab9f6e.chunk.js": "/passive_web/static/js/4.51ab9f6e.chunk.js",
     "static/js/4.51ab9f6e.chunk.js.map": "/passive_web/static/js/4.51ab9f6e.chunk.js.map",
     "index.html": "/passive_web/index.html",
     "static/css/main.0da45c7d.chunk.css.map": "/passive_web/static/css/main.0da45c7d.chunk.css.map",
-    "static/js/2.c6f305d0.chunk.js.LICENSE.txt": "/passive_web/static/js/2.c6f305d0.chunk.js.LICENSE.txt",
+    "static/js/2.8c9c6493.chunk.js.LICENSE.txt": "/passive_web/static/js/2.8c9c6493.chunk.js.LICENSE.txt",
     "static/media/styles.module.scss": "/passive_web/static/media/backgroundBanner.90ccbbf1.png",
     "static/media/binancewallet.6fd9cbfe.svg": "/passive_web/static/media/binancewallet.6fd9cbfe.svg",
     "static/media/bsc.f2b86ec9.png": "/passive_web/static/media/bsc.f2b86ec9.png",
@@ -32,9 +32,9 @@
     "static/media/walletconnect.1edebea6.svg": "/passive_web/static/media/walletconnect.1edebea6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7fa77b92.js",
-    "static/js/2.c6f305d0.chunk.js",
+    "static/js/runtime-main.ee342a02.js",
+    "static/js/2.8c9c6493.chunk.js",
     "static/css/main.0da45c7d.chunk.css",
-    "static/js/main.ab214776.chunk.js"
+    "static/js/main.34658fb1.chunk.js"
   ]
 }
